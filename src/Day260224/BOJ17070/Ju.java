@@ -3,7 +3,7 @@ package Day260224.BOJ17070;
 import java.io.*;
 import java.util.*;
 
-public class ju {
+public class Ju {
     static boolean[][] map;
     static int answer;
     static int N;

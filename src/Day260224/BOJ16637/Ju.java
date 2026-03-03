@@ -2,7 +2,7 @@ package Day260224.BOJ16637;
 
 import java.io.*;
 
-public class ju {
+public class Ju {
     static char[] ops;
     static int[] nums;
     static int answer;
